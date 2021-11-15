@@ -1,0 +1,73 @@
+<form id="contact" method="post">
+  <h2>Need help</h2>
+  <P>Need a questioned answered? Need too book a Perosnal Trainer? Need help with membership?</p>
+  <p>Fill in the form below with details on your request and we will get back to you as fast as we can!.</p>
+
+
+  <fieldset>
+
+    <div>
+      <label for="name-field">Name</label>
+      <input id="name-field" type="text" name="full_name" placeholder="Your Name" required>
+    </div>
+
+    <div>
+      <label for="email-field">Email</label>
+      <input id="email-field" type="email" name="email" placeholder="Your Email" required>
+    </div>
+
+    <div>
+
+      <label for="Male">Male</label>
+      <input id="Male" name="Male" value="male" type="radio" required>
+
+      <label for="Female">Female</label>
+      <input id="Female" name="Female" value="Female" type="radio" required>
+    </div>
+
+
+    <div>
+      <label for="age">Age</label>
+      <select id="age" name="age" required>
+        <option value="16-18">Under 20</option>
+        <option value="18">20-29</option>
+        <option value="19">19</option>
+        <option value="20">20</option>
+        <option value="21">21</option>
+        <option value="22">22</option>
+        <option value="23">23</option>
+        <option value="24">24</option>
+        <option value="25">25</option>
+        <option value="26">26</option>
+        <option value="27">27</option>
+        <option value="28">28</option>
+        <option value="29">29</option>
+        <option value="30">30</option>
+        <option value="30-35">30-35</option>
+        <option value="40-45">40</option>
+        <option value="45-50">45-50</option>
+        <option value="50+">50+</option>
+    </div>
+    </select>
+
+    <div>
+      <select class="contact" name="contact" required>
+        <option value="pt">Personal Trainer</option>
+        <option value="group">Group Seasons</option>
+        <option value="Yoga">Yoga Classes</option>
+        <option value="membership">Membership Related</option>
+        <option value="Other">Other</option>
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <legend>Feedback</legend>
+    <label for="feedback">Tell us about your situation?</label>
+    <br>
+    <textarea id="feedback" rows="4" cols="100" name="feedback"></textarea>
+  </fieldset>
+
+
+  <input type="submit" value="Submit">
+
+</form>
