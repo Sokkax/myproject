@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+body {
+  color: #3a3a3a;
+  font-family: 'Play', sans-serif;
+  background-color: #000000;
+}
+
+/*--- headings and logos---*/
+h1, h2, {
+  font-family: 'Play', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: auto;
+}
+
+h3, h4 {}
+
+#logo {
+  float: left;
+  font-size: 280%;
+  color: #ffffff;
+}
+
+/*---nav---*/
+#menu {
+  font-szie: 110% letter-spacing: 4px;
+}
+
+#menu li {
+  float: right;
+  list-style-type: none;
+  margin-right: 30px;
+  color: #ffffff;
+}
+
+#menu a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+#menu a:hoover {
+  border-bottom: 1px solid #3a3a3a;
+}
+
+#menu, #lego {
+  line-height: 75px;
+}
+
+.active {
+  border-bottom: 1px solid #3a3a3a;
+}
+
+/*---header-image---*/
+#header-image {
+  height: 800px;
+  width: 100%;
+}
+
+/*---creates the level of zoom for a image---*/
+/*--about us--*/
+.about {
+  border: 100px;
+  border-style: solid;
+  border-color: white;
+  padding: 1em;
+}
+
+.about h1 {
+  font-size: 40px;
+  padding-bottom: 10px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #ffffff;
+}
+
+.about p {
+  font-size: 25px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #ffffff;
+}
+
+/*--ADDD MORE TOO CONTENT HERE---*/
+/*--joining today---*/
+.join-today {
+  font-size: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+  text-align: center;
+  border: 100px;
+  border-style: solid;
+  border-color: white;
+  padding: 1em;
+}
+}
+
+.perk-list {
+  font-size: 25px;
+  padding-top: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+  text-align: center;
+}
+
+/*--review section--*/
+.reviews {
+  font-size: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  text-align: center;
+}
+
+/*--Jack CLerkin--*/
+.reviews-1 {
+  background-position: left;
+  background: url('pictures/andre-free.jpg');
+}
+
+.review-1 img {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  width: 35%;
+  height: 55%;
+  text-align: center;
+  position: relative;
+}
+
+.review-1 h3 {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+.review-1 h4 {
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.review-1 p {
+  font-size: 15px;
+  color: white;
+  text-shadow: auto;
+  text-align: center;
+}
+
+.review-1 h1 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: red;
+  text-align: center;
+}
+
+/*--Aaron Clancy--*/
+.reviews-2 {
+  background-position: left;
+}
+
+.review-2 img {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  width: 35%;
+  height: 55%;
+  text-align: center;
+  position: relative;
+}
+
+.review-2 h3 {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+.review-2 h4 {
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.review-2 p {
+  font-size: 15px;
+  color: white;
+  text-shadow: auto;
+  text-align: center;
+}
+
+.review-2 h1 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: red;
+  text-align: center;
+}
+
+/*---KYLE CRAWLEY---*/
+.reviews-3 {
+  background-position: left;
+}
+
+.review-3 img {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  width: 35%;
+  height: 55%;
+  text-align: center;
+  position: relative;
+}
+
+.review-3 h3 {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+.review-3 h4 {
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.review-3 p {
+  font-size: 15px;
+  color: white;
+  text-shadow: auto;
+  text-align: center;
+}
+
+.review-3 h1 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: red;
+  text-align: center;
+}
+
+/*---SARAH CARR---*/
+.reviews-4 {
+  background-position: left;
+}
+
+.review-4 img {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  width: 35%;
+  height: 55%;
+  text-align: center;
+  position: relative;
+}
+
+.review-4 h3 {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+.review-4 h4 {
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.review-4 p {
+  font-size: 15px;
+  color: white;
+  text-shadow: auto;
+  text-align: center;
+}
+
+.review-4 h1 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: red;
+  text-align: center;
+}
+
+#membership {}
+
+.low-membership {
+  display: inline-block;
+  border: 100px;
+  border-style:solid;
+  border-color:white;
+  padding: 1em;
+}
+
+.low-membership h3, h4, p {
+  font-size: 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  margin-left: 25px;
+  color: #ffffff;
+}
+
+.mid-membership {
+  display: inline-block;
+  border: 100px;
+  border-style:solid;
+  border-color:white;
+  padding: 1em;
+}
+
+.mid-membership h3, h4, p {
+  font-size: 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  margin-left: 25px;
+  color: #ffffff;
+}
+
+.one-year {
+  display: inline-block;
+    border: 100px;
+    border-style:solid;
+    border-color:white;
+    padding: 1em;
+  }
+
+
+.one-year h3, h4, p {
+  font-size: 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  margin-left: 25px;
+  color: #ffffff;
+
+}
+
+/*----FIX HOW THE BOXS LINE UP AND HOW TO GET A NICE BUTTON---*/
+/*---CONTACT SECTION---*/
