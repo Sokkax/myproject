@@ -7,16 +7,17 @@
 }
 
 body {
-  color: #3a3a3a;
+  color: #3B3B3B;
   font-family: 'Play', sans-serif;
   background-color: #000000;
 }
 
 /*--- headings and logos---*/
-h1, h2, {
+h1, h2 {
   font-family: 'Play', sans-serif;
   text-transform: uppercase;
-  letter-spacing: auto;
+  letter-spacing:10px;
+  margin: 10px;
 }
 
 h3, h4 {}
@@ -25,11 +26,13 @@ h3, h4 {}
   float: left;
   font-size: 280%;
   color: #ffffff;
+  margin: 10px;
 }
 
 /*---nav---*/
 #menu {
-  font-szie: 110% letter-spacing: 4px;
+  font-size: 100%;
+  letter-spacing: 4px;
 }
 
 #menu li {
@@ -42,7 +45,9 @@ h3, h4 {}
 #menu a {
   text-decoration: none;
   color: #ffffff;
+  font-size: 30px;
 }
+
 
 #menu a:hoover {
   border-bottom: 1px solid #3a3a3a;
@@ -52,27 +57,42 @@ h3, h4 {}
   line-height: 75px;
 }
 
+#logo {
+  font-size: 60px;
+}
+
 .active {
   border-bottom: 1px solid #3a3a3a;
 }
 
 /*---header-image---*/
 #header-image {
-  height: 800px;
+  height: auto;
   width: 100%;
 }
 
 /*---creates the level of zoom for a image---*/
 /*--about us--*/
 .about {
-  border: 100px;
+  border: 85px;
   border-style: solid;
-  border-color: white;
+  border-color: #ffffff;
   padding: 1em;
+  border-style: double;
+  margin: 50px;
+  border-radius: 25px;
 }
 
-.about h1 {
-  font-size: 40px;
+.about img {
+  max-width: 100%;
+  height: 900px;
+  width: 100%;
+  float:center;
+
+}
+
+.about h2 {
+  font-size: 80px;
   padding-bottom: 10px;
   text-align: center;
   margin-top: 30px;
@@ -83,8 +103,7 @@ h3, h4 {}
 .about p {
   font-size: 25px;
   padding-bottom: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 25px;
   text-align: center;
   color: #ffffff;
 }
@@ -93,26 +112,35 @@ h3, h4 {}
 /*--joining today---*/
 .join-today {
   font-size: 30px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 40px;
   color: white;
   text-align: center;
-  border: 100px;
-  border-style: solid;
-  border-color: white;
+  border: 85px;
+  border-style: double;
+  border-color: #black;
   padding: 1em;
-}
+  list-style-type: none;
 }
 
 .perk-list {
-  font-size: 25px;
-  padding-top: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  font-size: 40px;
+  margin: 50px;
   color: white;
   text-align: center;
+  padding: 1em;
+  border-style: double;
+  border-color: white;
+}
+
+. .perk-list li {
+  font-size: 35px;
+  margin: 50px;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  border-style: double;
+  border-color: white;
+  list-style-type: none;
 }
 
 /*--review section--*/
@@ -124,39 +152,55 @@ h3, h4 {}
   text-align: center;
 }
 
+.reviews p {
+  font-size: 30px;
+}
+
+.reviews, h3 {
+  font-size: 50px;
+  margin: 50px;
+}
+
 /*--Jack CLerkin--*/
 .reviews-1 {
   background-position: left;
   background: url('pictures/andre-free.jpg');
+  background-color: blue;
+  max-width: 100%;
 }
 
 .review-1 img {
   margin-top: 35px;
   margin-bottom: 35px;
+  margin-left: auto;
+  margin-right: auto;
   width: 35%;
   height: 55%;
-  text-align: center;
+  text-align: left;
   position: relative;
+  display: block;
+  max-width: 100%;
 }
 
 .review-1 h3 {
   font-size: 35px;
   text-align: center;
   font-weight: bold;
-  color: white;
+  color: black;
+  background-color: #ffffff;
 }
 
 .review-1 h4 {
-  font-size: 25px;
-  color: white;
+  font-size: 30px;
+  color: black;
   font-weight: bold;
   text-align: center;
+  background-color: white;
 }
 
 .review-1 p {
-  font-size: 15px;
+  font-size: 20px;
   color: white;
-  text-shadow: auto;
   text-align: center;
 }
 
@@ -176,31 +220,35 @@ h3, h4 {}
 .review-2 img {
   margin-top: 35px;
   margin-bottom: 35px;
+  margin-left: auto;
+  margin-right: auto;
   width: 35%;
   height: 55%;
-  text-align: center;
-  position: relative;
+  text-align:center;
+  position:relative;
+  display:block;
+  max-width:100%;
 }
 
 .review-2 h3 {
-  font-size: 35px;
-  text-align: center;
-  font-weight: bold;
-  color: white;
+  font-size:35px;
+  text-align:center;
+  font-weight:bold;
+  color: black;
+  background-color:white;
 }
 
 .review-2 h4 {
-  font-size: 25px;
+  font-size: 30px;
   color: white;
-  font-weight: bold;
-  text-align: center;
+  font-weight:bold;
+  text-align:center;
 }
 
 .review-2 p {
-  font-size: 15px;
+  font-size: 20px;
   color: white;
-  text-shadow: auto;
-  text-align: center;
+  text-align:center;
 }
 
 .review-2 h1 {
@@ -219,31 +267,36 @@ h3, h4 {}
 .review-3 img {
   margin-top: 35px;
   margin-bottom: 35px;
+  margin-left: auto;
+  margin-right: auto;
   width: 35%;
   height: 55%;
   text-align: center;
   position: relative;
+  display: block;
+  max-width: 100%;
 }
 
 .review-3 h3 {
   font-size: 35px;
   text-align: center;
   font-weight: bold;
-  color: white;
+  color: black;
+  background-color: white;
 }
 
 .review-3 h4 {
-  font-size: 25px;
-  color: white;
+  font-size: 30px;
   font-weight: bold;
   text-align: center;
+  color: black;
+  background-color: white;
 }
 
 .review-3 p {
-  font-size: 15px;
-  color: white;
-  text-shadow: auto;
+  font-size: 20px;
   text-align: center;
+  color: white;
 }
 
 .review-3 h1 {
@@ -262,31 +315,36 @@ h3, h4 {}
 .review-4 img {
   margin-top: 35px;
   margin-bottom: 35px;
+  margin-left: auto;
+  margin-right: auto;
   width: 35%;
   height: 55%;
   text-align: center;
   position: relative;
+  display: block;
+  max-width: 100%;
 }
 
 .review-4 h3 {
   font-size: 35px;
   text-align: center;
   font-weight: bold;
-  color: white;
+  color: black;
+  background-color: white;
 }
 
 .review-4 h4 {
-  font-size: 25px;
-  color: white;
+  font-size: 30px;
   font-weight: bold;
   text-align: center;
+  color: black;
+  background-color: white;
 }
 
 .review-4 p {
-  font-size: 15px;
+  font-size: 20px;
   color: white;
-  text-shadow: auto;
-  text-align: center;
+  text-align:center;
 }
 
 .review-4 h1 {
@@ -297,31 +355,41 @@ h3, h4 {}
   text-align: center;
 }
 
+/*--REVIEW SECTION--*/
+.h2-membership {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  background-color: white;
+}
+
 #membership {}
 
 .low-membership {
   display: inline-block;
   border: 100px;
-  border-style:solid;
-  border-color:white;
-  padding: 1em;
+  margin: 45px;
+  border-style: solid;
+  border-color: white;
+  padding: 3em;
+  border-radius: 25px;
 }
 
 .low-membership h3, h4, p {
   font-size: 20px;
-  margin-top: 25px;
-  margin-bottom: 25px;
-  margin-right: 25px;
-  margin-left: 25px;
+  margin:25px;
   color: #ffffff;
 }
 
 .mid-membership {
   display: inline-block;
   border: 100px;
-  border-style:solid;
-  border-color:white;
-  padding: 1em;
+  margin: 45px;
+  border-style: solid;
+  border-color: white;
+  padding: 3em;
+  border-radius: 25px;
 }
 
 .mid-membership h3, h4, p {
@@ -335,22 +403,91 @@ h3, h4 {}
 
 .one-year {
   display: inline-block;
-    border: 100px;
-    border-style:solid;
-    border-color:white;
-    padding: 1em;
-  }
-
+  border: 100px;
+  margin: 45px;
+  border-style: solid;
+  border-color: white;
+  padding: 3em;
+  border-radius: 25px;
+}
 
 .one-year h3, h4, p {
   font-size: 20px;
-  margin-top: 25px;
-  margin-bottom: 25px;
-  margin-right: 25px;
-  margin-left: 25px;
+  margin: 30px;
   color: #ffffff;
-
 }
+
+button {}
 
 /*----FIX HOW THE BOXS LINE UP AND HOW TO GET A NICE BUTTON---*/
 /*---CONTACT SECTION---*/
+/*---fieldset---*/
+#contact {
+  margin: 50px;
+  border-style: solid;
+  border-color: black;
+  padding: 1em;
+  font-size: 100%;
+  text-align: center;
+}
+
+#contact h2 {
+  font-size: 35px;
+  color: white;
+}
+
+#contact p {
+  font-size: 30px;
+}
+
+fieldset {
+  border: 100px;
+  text-align: center;
+  margin: 80px;
+  border-style: groove;
+  font-size: 70%;
+  color: white;
+}
+
+label {
+  font-size: 35px;
+  margin: 50px;
+}
+
+input {
+  font-size: 35px;
+  margin: 25px;
+  text-align: center;
+}
+
+.submit-button {
+  font-size: 20px
+}
+
+.class-select {}
+
+.customer-needs {
+  text-align: center;
+}
+
+/*---Media Queries---*/
+@media screen and (max-width: 980) {
+  .col-50 {
+    width: 100%;
+  }
+}
+
+iframe {}
+
+.socials {
+  font-size: 35px;
+  text-align: center;
+  background-color: white;
+  margin: 15px;
+  font-weight: bold;
+
+}
+
+.socials h2 {
+  font-size: 30px;
+}
