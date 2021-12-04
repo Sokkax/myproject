@@ -82,6 +82,29 @@ This is a small section on how much our joing rates are and designed in black an
 This section was created about for customers that might want to learn more about our services.
 With a name , email , contact number , Age  , and reason why 
 
+<!--Add help section image-->
+
+
+Validator Testing.
+
+After the website was coded and designed it was time to run the code through W3C validator
+
+(1) Html
+
+we ran our HTML code and the first time it a error and that line of code was got to do with the nav bar not relocate the user to its set link but the ID was misspelled
+
+(2) CSS
+
+When i ran my Css code through the W3C Css validator an error came up but only for a unclosed tag
+
+(3) Lighthouse report
+
+When i launch the TNT Gym wbesite first thing i did was launch lighthouse report to show how accessable my website would be this is the result i got 
+
+![TNT GYM - Google Chrome 04_12_2021 09_57_40](https://user-images.githubusercontent.com/84808153/144706460-2a71a323-1574-4def-bb75-2ae59bc9f06c.png)
+
+
+
 
 
 
