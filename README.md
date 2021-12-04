@@ -43,7 +43,8 @@ of TNT.
 As you can see from the image we offer deals to brand new members gving them 35% off the membership fees and a number of other deals etc.
 
 
-![TNT GYM - Google Chrome 29_11_2021 22_51_13](https://user-images.githubusercontent.com/84808153/144479131-99b878ae-ef74-49c5-86e9-7576c12e0820.png)
+![TNT GYM - Google Chrome 03_12_2021 19_07_56](https://user-images.githubusercontent.com/84808153/144660351-164ecd16-dc32-4f50-b6b6-8f76cebba908.png)
+
 
 
 (4.) Why choose us?
@@ -52,8 +53,42 @@ This section is another section where we tell more about the gym to the user soo
 
 
 
+![TNT GYM - Google Chrome 03_12_2021 22_51_52](https://user-images.githubusercontent.com/84808153/144683071-e4282942-60da-4a14-8ca7-8632f5c1369f.png)
 
-![New Tab - Google Chrome 02_12_2021 18_30_23](https://user-images.githubusercontent.com/84808153/144481887-f594d171-c45a-4e5d-b763-844703708c1b.png)
+
+(5.) Another picture of TNT gym
+
+
+![TNT GYM - Google Chrome 03_12_2021 22_55_57](https://user-images.githubusercontent.com/84808153/144683434-a0903797-ab03-480a-99c6-1a5e94567e3e.png)
+
+
+
+(6.) Review section 
+
+Here  is a small section on our members on how they are getting on at tnt and what their goals, how much weight they lost etc
+there are 4 reviews with photes with the members.
+
+![TNT GYM - Google Chrome 30_11_2021 05_19_54](https://user-images.githubusercontent.com/84808153/144685152-4c4fc88e-c4ce-4104-b280-dc0b4acea6c8.png)
+
+
+(7.) Memnership section
+
+This is a small section on how much our joing rates are and designed in black and white boxs.
+
+![TNT GYM - Google Chrome 03_12_2021 23_12_53](https://user-images.githubusercontent.com/84808153/144685936-387251bb-fc62-4849-a8c9-443d7330f4ce.png)
+
+(8.) Help Section 
+
+This section was created about for customers that might want to learn more about our services.
+With a name , email , contact number , Age  , and reason why 
+
+
+
+
+
+
+
+
 
 
 
