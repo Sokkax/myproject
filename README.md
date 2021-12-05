@@ -82,6 +82,8 @@ there are 4 reviews with photes with the members.
 - This section was created about for customers that might want to learn more about our services.
 With a name , email , contact number , Age  , or if they want to get in touch with our persoanl trainers.
 
+-This section also collects the contact information from the person thats is trying to get in contact with us.
+
 <!--Add help section image-->
 
 <br>
