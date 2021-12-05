@@ -85,6 +85,14 @@ With a name , email , contact number , Age  , and reason why
 <!--Add help section image-->
 
 
+
+
+
+
+
+
+
+
 Validator Testing.
 
 After the website was coded and designed it was time to run the code through W3C validator
