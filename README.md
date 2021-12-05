@@ -84,13 +84,9 @@ With a name , email , contact number , Age  , and reason why
 
 <!--Add help section image-->
 
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
 
 
 Validator Testing.
