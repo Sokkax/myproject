@@ -23,6 +23,9 @@ i added it into this section of my ReadMe.
 ![TNT GYM - Google Chrome 29_11_2021 22_50_40](https://user-images.githubusercontent.com/84808153/144473027-7ded9e23-25db-469f-9c45-256e7bff4f79.png)
 
 
+<br><br><br>
+
+
 
 (2.) About Us
 
@@ -35,6 +38,9 @@ but we will get to the services part later on.
 ![TNT GYM - Google Chrome 29_11_2021 22_51_01](https://user-images.githubusercontent.com/84808153/144475631-89ccafe2-b72f-4319-8026-36308a6b517e.png)
 
 
+<br><br><br>
+
+
 (3.) What Can TNT do for you ?
 
 - This section in mainly just to tell out vistiors of our website what they can expect to gain from joining our gym what perks do they get and overall what it means to be a member 
@@ -44,6 +50,8 @@ of TNT.
 
 
 ![TNT GYM - Google Chrome 03_12_2021 19_07_56](https://user-images.githubusercontent.com/84808153/144660351-164ecd16-dc32-4f50-b6b6-8f76cebba908.png)
+
+<br><br><br>
 
 
 
@@ -55,11 +63,15 @@ of TNT.
 
 ![TNT GYM - Google Chrome 03_12_2021 22_51_52](https://user-images.githubusercontent.com/84808153/144683071-e4282942-60da-4a14-8ca7-8632f5c1369f.png)
 
+<br><br><br>
+
 
 (5.) Another picture of TNT gym
 
 
 ![TNT GYM - Google Chrome 03_12_2021 22_55_57](https://user-images.githubusercontent.com/84808153/144683434-a0903797-ab03-480a-99c6-1a5e94567e3e.png)
+
+<br><br><br>
 
 
 
@@ -70,12 +82,16 @@ there are 4 reviews with photes with the members.
 
 ![TNT GYM - Google Chrome 30_11_2021 05_19_54](https://user-images.githubusercontent.com/84808153/144685152-4c4fc88e-c4ce-4104-b280-dc0b4acea6c8.png)
 
+<br><br><br>
+
 
 (7.) Memnership section
 
 - This is a small section on how much our joing rates are and designed in black and white boxs.
 
 ![TNT GYM - Google Chrome 03_12_2021 23_12_53](https://user-images.githubusercontent.com/84808153/144685936-387251bb-fc62-4849-a8c9-443d7330f4ce.png)
+
+<br><br><br>
 
 (8.) Help Section 
 
@@ -85,6 +101,11 @@ With a name , email , contact number , Age  , or if they want to get in touch wi
 -This section also collects the contact information from the person thats is trying to get in contact with us.
 
 <!--Add help section image-->
+
+![TNT GYM - Google Chrome 09_12_2021 10_22_12](https://user-images.githubusercontent.com/84808153/145378628-8e820246-b7db-48d4-adee-cedca6d1cedd.png)
+
+
+
 
 <br>
 <br>
@@ -101,11 +122,11 @@ we ran our HTML code and the first time it a error and that line of code was got
 
 (2) CSS
 
-When i ran my Css code through the W3C Css validator an error came up but only for a unclosed tag
+When i ran my Css code through the W3C Css validator no errors came up 
 
 (3) Lighthouse report
 
-When i launch the TNT Gym wbesite first thing i did was launch lighthouse report to show how accessable my website would be this is the result i got 
+i tested the website in dev tools on chrome for accessibility reasons like easy to read and see 
 
 ![TNT GYM - Google Chrome 04_12_2021 09_57_40](https://user-images.githubusercontent.com/84808153/144706460-2a71a323-1574-4def-bb75-2ae59bc9f06c.png)
 
@@ -126,6 +147,25 @@ None.
 
 - Media - I got most of my images from ShutterStock.
 
+
+
+<br><br><br>
+
+(11.) DEPLOYMENT
+
+ I deployed my website using gitpages from my github repository where i stored all my rough code and iamghes used for the website
+
+ <br><br><br>
+ 
+ 
+ (12.) TESTING 
+ 
+ i can confirm i tested my wehbsite on 
+ 
+ - Firefox
+ - Google Chrome
+ - Microsft Edge
+ 
 
 
 
