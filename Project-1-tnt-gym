@@ -1,0 +1,340 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <title>TNT GYM</title>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="stylesheet.css">
+
+
+<body>
+
+  <header>
+
+    <a href="index.html" class="active">
+      <h1 id="logo">TNT GYM</h1>
+    </a>
+
+    <nav>
+
+      <ul id="menu">
+
+        <li>
+          <a href="#aboutus">About us</a>
+        </li>
+
+        <li>
+          <a href="#services">Services</a>
+        </li>
+
+        <li>
+          <a href="#membership">Membership</a>
+        </li>
+
+        <li>
+          <a href="#socials">Socials</a>
+        </li>
+
+        <li>
+          <a href="#contact">Contact</a>
+        </li>
+
+      </ul>
+
+    </nav>
+
+
+    <div id="header-image">
+      <img src="pictures/tnt-header5.jpg" alt="gym">
+    </div>
+
+  </header>
+
+
+
+  <section id="aboutus">
+
+    <div class="about">
+      <h2>What is TNT gym all about!</h2>
+      <p>Here at tnt gym we aim to bring our members the best <br>results in the most natural ways. You might be asking yourself what does "TNT" even stand for ? A bomb ? god no<br>TNT means "True Natural Training" and we live by that moto!.We truly
+        like keeping things simple straight to the point .We
+        have a number of fitness options to choose from from yoga classes, to power lifting seasons with our personal trainers. Tnt Gym has a very friendly atmophere which allows our new members to settle in very very quickly Based five minutes
+        from Sligo town center</p>
+
+      <img src="pictures/man-working-out1.jpg" alt="man lifting tyre">
+
+    </div>
+
+    <hr>
+
+  </section>
+
+  <br><br><br>
+  <section id="services">
+
+    <div class="join-today">
+
+      <h2>What can TNT GYM do for you ?</h2>
+
+      <p>Here at TNT Gym we have been in the fitness industry for 10 years and our goal is to get people to there owen goals in the most cleanist way possiable but it wouldnt be possiable without our wonderfull set of staff and personal trainers
+        at your disposal if your in our members program!.<br> check out our latest membership deal below!
+
+      <ol>
+        <li>Try your first month free</li>
+        <li>A 1 on 1 free PT couching season!.</li>
+        <li>A months meal plan done for you for free!</li>
+        <li>35% off for new members! after your free month!</li>
+        <li>A free 1 on 1 yopa season!</li>
+
+
+      </ol>
+
+      <p> This deal is only for new members only.</p>
+      <br>
+      <br>
+      <p> Exsisting memebers will get 20% off there membership when renewing thier membership.</p>
+      <hr>
+
+    </div>
+
+    
+
+  </section>
+  <div class="girls-working">
+    <img src="pictures/women-work2.jpg" alt="girls working out">
+  </div>
+
+
+  <section id="perks-of-joining">
+
+    <h3>Why choose us you may ask?</h3>
+
+    <div class="perk-list">
+
+      <h2>here is some of the perks our members get by joining with us</h2>
+
+      <ul>
+        <li>The latest gym equipment</li>
+        <li>Open from 6am to 12am</li>
+        <li>professionals always on site for your every need</li>
+        <li>Loyality card perks earned by just coiming to the gym!</li>
+        <li>Meal plans done up weekly for members</li>
+        <li>Daily yoga and Cardio seasons</li>
+      </ul>
+
+
+
+    </div>
+
+  </section>
+
+  
+  <br><br><br>
+
+
+  <section id="tnt-gym2">
+    <h4>TNT Modern Equipment</h4>
+    <div>
+      <img src="pictures/tnt-lower-section2.jpg" alt="gym stuff">
+    </div>
+  </section>
+
+  <section id="review-section">
+
+    <div class="reviews">
+
+      <h3>Here at TNT we love our members feedback.</h3>
+      <p>it doent matter how <strong>large</strong> or small it maybe it lets us know what we are doing right and wrong</p>
+      <p>Dont believe us?. Here is some of our members thoughts on TNT gym</p>
+
+    </div>
+  </section>
+
+  <hr>
+
+
+  <section class="peoples-thoughts">
+
+
+
+    <div class="review-1">
+
+      <h3>Jack Clerkin</h3>
+      <img src="pictures/andre-free.jpg" alt="smile">
+      <h4>Age 34</h4>
+
+      <p> AMAZING GYM, AMAZING WORKOUTS! The staff here is incredibly friendly and extremely qualified!<br>And also very flexible with you're work life and everything when setting up a 1 on 1 seasons!. </p>
+
+    </div>
+
+
+    <br><br><br>
+
+
+    <div class="review-2">
+
+      <h3>Aaron Clancy</h3>
+      <img src="pictures/alfred-free.jpg" alt="selfie with cows">
+      <h4>Age 29</h4>
+
+      <p>The Pt's at TNT GYM knows how to achieve results and how to motivate you to achieve them.<br>I got a custom workout plan and went from there. Results week on week. Support and motivation all along the way.<br> Highly recommend
+      </p>
+
+
+    </div>
+
+
+   
+
+
+    <div class="review-3">
+
+      <h3>Kylie cawley</h3>
+      <img src="pictures/kylie-free.jpg" alt="pink gym outfit">
+      <h4>Age 25</h4>
+
+      <p>I started with TNT back in 2018 and have been there ever since and all i have to say is all im seeing is results from the advice the personal trainers there have given me!</p>
+
+    </div>
+
+    
+    <br><br><br>
+ 
+
+    <div class="review-4">
+
+      <h3>Sarah Carr</h3>
+      <img src="pictures/charlie-free1.jpg" alt="girl smiling on beach">
+      <h4>Age 20</h4>
+
+      <p>i joined Tnt when i was 17 years old. I heard lots about the gym through friends and just seeing them on social media sites.<br>i found it scary at first but after a week i was never not in the gym in my free time
+        !.</p>
+
+    </div>
+
+    <br><br><br>
+
+
+  </section>
+
+  <br><br><br>
+
+  <hr>
+
+  <section id="membership">
+
+    <h2>membership options</h2>
+
+    <div class="low-membership">
+      <h3>3 months</h3>
+      <h4>200</h4>
+      <p>one time payment</p>
+      <br>
+      <button type="button">Select Options</button>
+    </div>
+
+
+    <div class="mid-membership">
+      <h3>6 months</h3>
+      <h4>350</h4>
+      <p>installments available</p>
+      <br>
+      <button type="button">Select Options</button>
+    </div>
+
+    <div class="one-year">
+      <h3>1 year</h3>
+      <h4>600</h4>
+      <p>installments available</p>
+      <br>
+      <button type="button">Select Options</button>
+    </div>
+
+  </section>
+
+
+
+  <section id="contact">
+
+    
+  <div class="need-help">
+    <h2>Need help</h2>
+    <P>Need a questioned answered? Need too book a Perosnal Trainer? Need help with membership?</p>
+    <p>Fill in the form below with details on your request and we will get back to you as fast as we can!.</p>
+  </div>
+
+  
+
+
+  
+
+
+      <div>
+        <label for="name-field">Name</label>
+        <input id="name-field" type="text" name="full_name" placeholder="Your Name" required>
+      </div>
+
+      <div>
+        <label for="number-field">Number</label>
+        <input id="number-field" type="text" name="Phone Number" placeholder="Your Number" required>
+      </div>
+
+      <div>
+        <label for="email-field">Email</label>
+        <input id="email-field" type="text" name="email" placeholder="Your Email" required>
+      </div>
+
+     
+
+        <div class="customer-needs">
+          
+        <form action="/index.html">
+
+         <select class="customer-need" name="contact">
+          <option value="pt">Personal Trainer</option>
+          <option value="group">Group Seasons</option>
+          <option value="Yoga">Yoga Classes</option>
+          <option value="membership">Membership Related</option>
+          <option value="Other">Other</option>
+          </select>
+        </form>
+
+        <form method="get" action="/index.html">
+          <button class="submit-button" type="submit">Continue</button>
+      </form>
+    
+    </div>
+
+
+
+</section>
+
+
+
+  <hr>
+  <hr>
+  <br><br><br>
+
+  <footer class="text-uppercase">
+
+    <section id="socials">
+      <h6>If you like our conent on here check out our Socials</h6>
+      <span>Find us on:</span>
+
+      <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Find us on Facebook (link opens in a new tab)">Facebook</a>
+      <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)">Instagram</a>
+      <a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Find us on Twitter (link opens in a new tab)">Twitter</a>
+
+      <p>Copyright © TNT GYM 2021</p>
+      <br>
+
+    </section>
+
+  </footer>
+
+</body>
+
+</html>
