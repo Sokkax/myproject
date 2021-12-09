@@ -153,7 +153,7 @@ None.
 
 (11.) DEPLOYMENT
 
- I deployed my website using gitpages from my github repository where i stored all my rough code and iamghes used for the website
+ I deployed my website using gitpages from my github repository where i stored all my rough code and images used for the website
 
  <br><br><br>
  
