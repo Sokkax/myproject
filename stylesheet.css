@@ -16,11 +16,11 @@ body {
 h1, h2 {
   font-family: 'Play', sans-serif;
   text-transform: uppercase;
-  letter-spacing:10px;
+  letter-spacing: 10px;
   margin: 10px;
 }
 
-h3, h4 {}
+
 
 #logo {
   float: left;
@@ -49,10 +49,6 @@ h3, h4 {}
 }
 
 
-#menu a:hoover {
-  border-bottom: 1px solid #3a3a3a;
-}
-
 #menu, #lego {
   line-height: 75px;
 }
@@ -67,7 +63,7 @@ h3, h4 {}
 
 /*---header-image---*/
 #header-image {
-  height: auto;
+  height:100%;
   width: 100%;
 }
 
@@ -87,7 +83,6 @@ h3, h4 {}
   max-width: 100%;
   height: 900px;
   width: 100%;
-  float:center;
 
 }
 
@@ -117,9 +112,10 @@ h3, h4 {}
   text-align: center;
   border: 85px;
   border-style: double;
-  border-color: #black;
+  border-color:white;
   padding: 1em;
   list-style-type: none;
+  background-image: url(pictures/review-background2.jpg);
 }
 
 .perk-list {
@@ -130,9 +126,10 @@ h3, h4 {}
   padding: 1em;
   border-style: double;
   border-color: white;
+  background-image: url(pictures/women-yoga1.jpg);
 }
 
-. .perk-list li {
+.perk-list li {
   font-size: 35px;
   margin: 50px;
   color: white;
@@ -141,15 +138,33 @@ h3, h4 {}
   border-style: double;
   border-color: white;
   list-style-type: none;
+  
+}
+
+#perks-of-joining  {
+  font-size: 90px;
+  color:white;
+
+}
+
+#tnt-gym2 h4 {
+  font-size: 70px;
+  text-align:left;
+  margin-top: 200px;
+  
 }
 
 /*--review section--*/
+
+
+
 .reviews {
   font-size: 25px;
   padding-top: 20px;
   padding-bottom: 20px;
   color: white;
   text-align: center;
+  
 }
 
 .reviews p {
@@ -162,10 +177,8 @@ h3, h4 {}
 }
 
 /*--Jack CLerkin--*/
-.reviews-1 {
+.review-1 {
   background-position: left;
-  background: url('pictures/andre-free.jpg');
-  background-color: blue;
   max-width: 100%;
 }
 
@@ -186,16 +199,15 @@ h3, h4 {}
   font-size: 35px;
   text-align: center;
   font-weight: bold;
-  color: black;
-  background-color: #ffffff;
+  color: white;
+  background-color:transparent;
 }
 
 .review-1 h4 {
   font-size: 30px;
-  color: black;
+  color:white;
   font-weight: bold;
   text-align: center;
-  background-color: white;
 }
 
 .review-1 p {
@@ -213,56 +225,50 @@ h3, h4 {}
 }
 
 /*--Aaron Clancy--*/
-.reviews-2 {
-  background-position: left;
-}
+
 
 .review-2 img {
   margin-top: 35px;
-  margin-bottom: 35px;
   margin-left: auto;
   margin-right: auto;
   width: 35%;
   height: 55%;
-  text-align:center;
-  position:relative;
-  display:block;
-  max-width:100%;
+  text-align: center;
+  position: relative;
+  display: block;
+  max-width: 100%;
 }
 
 .review-2 h3 {
-  font-size:35px;
-  text-align:center;
-  font-weight:bold;
-  color: black;
-  background-color:white;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  
 }
 
 .review-2 h4 {
   font-size: 30px;
   color: white;
-  font-weight:bold;
-  text-align:center;
+  font-weight: bold;
+  text-align: center;
 }
 
 .review-2 p {
   font-size: 20px;
   color: white;
-  text-align:center;
+  text-align: center;
 }
 
 .review-2 h1 {
   font-size: 30px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-color: red;
+  color: white;
   text-align: center;
 }
 
 /*---KYLE CRAWLEY---*/
-.reviews-3 {
-  background-position: left;
-}
 
 .review-3 img {
   margin-top: 35px;
@@ -281,16 +287,15 @@ h3, h4 {}
   font-size: 35px;
   text-align: center;
   font-weight: bold;
-  color: black;
-  background-color: white;
+  color: white;
+  
 }
 
 .review-3 h4 {
   font-size: 30px;
   font-weight: bold;
   text-align: center;
-  color: black;
-  background-color: white;
+  color: white;
 }
 
 .review-3 p {
@@ -308,13 +313,12 @@ h3, h4 {}
 }
 
 /*---SARAH CARR---*/
-.reviews-4 {
-  background-position: left;
-}
+
+ 
 
 .review-4 img {
   margin-top: 35px;
-  margin-bottom: 35px;
+  margin-bottom:35px;
   margin-left: auto;
   margin-right: auto;
   width: 35%;
@@ -325,46 +329,43 @@ h3, h4 {}
   max-width: 100%;
 }
 
+
 .review-4 h3 {
   font-size: 35px;
   text-align: center;
   font-weight: bold;
-  color: black;
-  background-color: white;
+  color:#ffffff;
 }
 
 .review-4 h4 {
   font-size: 30px;
   font-weight: bold;
   text-align: center;
-  color: black;
-  background-color: white;
+  color: white;
 }
 
 .review-4 p {
   font-size: 20px;
   color: white;
-  text-align:center;
+  text-align: center;
 }
 
 .review-4 h1 {
   font-size: 30px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-color: red;
+  color: white;
   text-align: center;
 }
 
 /*--REVIEW SECTION--*/
-.h2-membership {
+#membership h2 {
   font-size: 35px;
   text-align: center;
   font-weight: bold;
-  color: black;
-  background-color: white;
+  color: white;
 }
 
-#membership {}
 
 .low-membership {
   display: inline-block;
@@ -378,7 +379,7 @@ h3, h4 {}
 
 .low-membership h3, h4, p {
   font-size: 20px;
-  margin:25px;
+  margin: 25px;
   color: #ffffff;
 }
 
@@ -417,10 +418,19 @@ h3, h4 {}
   color: #ffffff;
 }
 
-button {}
+.need-help {
+  font-size:50px;
+  text-align: center;
+  color: white;
+  border-style: solid;
+  margin: 30px;
+}
 
-/*----FIX HOW THE BOXS LINE UP AND HOW TO GET A NICE BUTTON---*/
-/*---CONTACT SECTION---*/
+.need-help p {
+  font-size: 30px;
+  
+}
+
 /*---fieldset---*/
 #contact {
   margin: 50px;
@@ -460,11 +470,11 @@ input {
   text-align: center;
 }
 
-.submit-button {
-  font-size: 20px
+#contact-button {
+  font-size: 30px
 }
 
-.class-select {}
+
 
 .customer-needs {
   text-align: center;
@@ -477,17 +487,27 @@ input {
   }
 }
 
-iframe {}
-
-.socials {
+#socials {
   font-size: 35px;
   text-align: center;
   background-color: white;
   margin: 15px;
   font-weight: bold;
+  margin: 20px;
+  background: url('pictures/review-background1.jpg');
 
 }
 
 .socials h2 {
   font-size: 30px;
+}
+
+
+.submit-button {
+ 
+  text-align: center;
+  font-size:30px;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top:60px;
 }
